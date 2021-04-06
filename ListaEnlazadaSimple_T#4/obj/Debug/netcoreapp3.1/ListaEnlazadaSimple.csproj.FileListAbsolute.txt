@@ -1,0 +1,26 @@
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple\bin\Debug\netcoreapp3.1\ListaEnlazadaSimple.exe
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple\bin\Debug\netcoreapp3.1\ListaEnlazadaSimple.deps.json
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple\bin\Debug\netcoreapp3.1\ListaEnlazadaSimple.runtimeconfig.json
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple\bin\Debug\netcoreapp3.1\ListaEnlazadaSimple.runtimeconfig.dev.json
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple\bin\Debug\netcoreapp3.1\ListaEnlazadaSimple.dll
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple\bin\Debug\netcoreapp3.1\ListaEnlazadaSimple.pdb
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.csprojAssemblyReference.cache
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.AssemblyInfoInputs.cache
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.AssemblyInfo.cs
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.csproj.CoreCompileInputs.cache
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.dll
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.pdb
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.genruntimeconfig.cache
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple - copia\bin\Debug\netcoreapp3.1\ListaEnlazadaSimple.exe
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple - copia\bin\Debug\netcoreapp3.1\ListaEnlazadaSimple.deps.json
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple - copia\bin\Debug\netcoreapp3.1\ListaEnlazadaSimple.runtimeconfig.json
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple - copia\bin\Debug\netcoreapp3.1\ListaEnlazadaSimple.runtimeconfig.dev.json
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple - copia\bin\Debug\netcoreapp3.1\ListaEnlazadaSimple.dll
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple - copia\bin\Debug\netcoreapp3.1\ListaEnlazadaSimple.pdb
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple - copia\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.csprojAssemblyReference.cache
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple - copia\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.AssemblyInfoInputs.cache
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple - copia\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.AssemblyInfo.cs
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple - copia\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.csproj.CoreCompileInputs.cache
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple - copia\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.dll
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple - copia\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.pdb
+C:\Users\Adriana P\source\repos\ListaEnlazadaSimple - copia\obj\Debug\netcoreapp3.1\ListaEnlazadaSimple.genruntimeconfig.cache

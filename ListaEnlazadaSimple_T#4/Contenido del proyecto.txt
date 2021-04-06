@@ -1,0 +1,6 @@
+Funciones de este proyecto de c#:
+	LISTA ENLAZADA SIMPLE
+	. AGREGAR
+	. RECORRER
+	. BUSCAR MENOR
+	. ELIMINAR
